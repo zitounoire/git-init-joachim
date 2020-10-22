@@ -1,2 +1,2 @@
 # git-init-joachim
-simple challenge for co-workers to initat them to git
+simple challenge for co-workers to initiat them to git
