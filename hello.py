@@ -1,2 +1,2 @@
-name = 'MAGUENDJI Freud'
+name = 'Zitoune'
 print('Hello ' + name)
